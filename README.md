@@ -33,3 +33,24 @@ iMessage App类别：
 *image 不可以大于206 x 206 pt (618 x 618 pixels)
 
 *image 格式必须是PNG、APNG、JPEG、GIF
+1、添加静态表情包
+
+< 1 > 创建Sticker Pack 工程
+
+create a new Xcode project >iOS > Sticker Pack Application > Next
+
+\
+
+\
+
+< 2 > 拖入图片
+
+选中Stickers.xcsstickers > 选中右边的Sticker Pack文件夹 > 选中素材中的所有图片 > 拖入Sticker Pack中
+
+\
+
+< 2 > 运行效果
+
+\
+
+这样就完成了Sticker pack静态表情包
